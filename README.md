@@ -1,4 +1,6 @@
 # Deepak
-<h1 align="center">Hi 👋, I'm Deepak kumar gouda </h1>
+<h1  I'm Deepak kumar gouda. </h1>
+<br>
+I am using GIt hub. </br>
 
 This is my first Git repositary.
