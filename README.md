@@ -1,6 +1,2 @@
-# Deepak
-<h1>  I'm Deepak kumar gouda. </h1>
-<br>
-I am using Git hub. </br>
-
-I have made a repository.
+# India defeated Pakistan in t20 wc 2024.
+# I have made a repository.
